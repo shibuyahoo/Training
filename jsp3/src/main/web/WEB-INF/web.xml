@@ -3,6 +3,7 @@
  "http://java.sun.com/dtd/web-app_2_3.dtd" >
 
 <web-app>
+<!-- Adding some changes as comment-->
   <display-name>Simple Example as I like</display-name>
   <error-page>
 		<exception-type>java.lang.Exception</exception-type>
